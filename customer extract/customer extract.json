@@ -38,7 +38,7 @@
   "sourceControlDetails" : {
     "provider" : "GITHUB",
     "repository" : "aws-glue",
-    "branch" : "main",
+    "branch" : "changes_to_glue_Schedule",
     "folder" : "customer extract"
   }
 }
